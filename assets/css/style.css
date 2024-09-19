@@ -13,6 +13,14 @@ header {
   background-color: rgb(13, 117, 13)
 }
 
+.seccion-1 > a {
+  color: azure;
+}
+
+h4 {
+  color: azure;
+}
+
 .boxes{
   width: 50%;
   align-content: center;
